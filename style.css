@@ -56,6 +56,7 @@ body {
 .btn:hover {
     background: #ed3cfd;
     text-decoration: none;
+    outline:none;
 }
 
 .preloader {
@@ -68,7 +69,7 @@ body {
     width: 100%;
     height: 100%;
     z-index: 1000;
-    background-color: #fff;
+    background-color: #FCFAFC;
     background-image: url(images/loder.gif);
     background-size: 30%;
     background-position: center center;
