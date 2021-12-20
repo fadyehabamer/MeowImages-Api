@@ -43,7 +43,6 @@ body {
     background-color: #9b5e95;
     -moz-border-radius: 28;
     border-radius: 28px;
-    font-family: Arial;
     color: #ffffff;
     font-size: 16px;
     padding: 10px 20px 10px 20px;
@@ -54,7 +53,7 @@ body {
 }
 
 .btn:hover {
-    background: #ed3cfd;
+    background: #864b8b;
     text-decoration: none;
     outline:none;
 }
@@ -69,7 +68,7 @@ body {
     width: 100%;
     height: 100%;
     z-index: 1000;
-    background-color: #FCFAFC;
+    background-color: #FBF9FC;
     background-image: url(images/loder.gif);
     background-size: 30%;
     background-position: center center;
