@@ -1,2 +1,3 @@
-# MeowImages-Api
-Get Random cat images from an API
+<p>
+  <img src='preview.gif'>
+</p>
